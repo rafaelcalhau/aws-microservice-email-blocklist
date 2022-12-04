@@ -1,0 +1,8 @@
+apikeys = {
+  AbstractAPI = ""
+  APILayer = ""
+}
+
+aws_profile = "your-aws-profile-name"
+env = "prod"
+sentry_dsn = "..."

@@ -1,0 +1,4 @@
+.terraform
+lambdas/**/*/node_modules/
+terraform/files/
+terraform/prod.tfvars

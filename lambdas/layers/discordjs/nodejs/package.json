@@ -1,0 +1,9 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
